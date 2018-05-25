@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/YourbeatsProject/mvc/Game/YourbeatsProject/Scene/Main.unity
+  isLoaded: 1
+  isActive: 1
